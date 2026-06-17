@@ -13,7 +13,7 @@ This project simulates the end-to-end data analytics workflow of cleaning and tr
    git clone 
    cd
    ```
-2. **Open Customer_Behavior_Analysis.ipynb notebook**
+2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
 
     This file contains:
 
@@ -31,13 +31,13 @@ This project simulates the end-to-end data analytics workflow of cleaning and tr
 
       - Run Python code to load data into database
   
-      - Open **customer_behavior_queries.sql**
+      - Open **customer_shopping_behavior_queries.sql**
   
       - Answer Business Questions using SQL Queries 
       
 4. **Connect the SQL Database to Power BI**
 
-      - Open **customer_behavior_dashboard.pbix**
+      - Open **customer_shopping_behavior_dashboard.pbix**
    
       - Create interactive dashboard in Power BI
 
