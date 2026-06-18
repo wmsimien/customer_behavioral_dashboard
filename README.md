@@ -31,11 +31,11 @@ This project simulates the end-to-end data analytics workflow of cleaning and tr
 
       - Run Python code to load data into database
   
-      - Open **customer_shopping_behavior_queries.sql**
+      - Open **customer_shopping_behavior_analysis_queries.sql**
   
       - Answer Business Questions using SQL Queries 
       
-4. **Connect the SQL Database to Power BI**
+4. **Connect the PostgreSQL Database to Power BI**
 
       - Open **customer_shopping_behavior_dashboard.pbix**
    
@@ -45,4 +45,3 @@ This project simulates the end-to-end data analytics workflow of cleaning and tr
 
 - **Name:** Wanda M Avery
 - **LinkedIn:** [Profile Link]
-- **Email:** [Your Email]
